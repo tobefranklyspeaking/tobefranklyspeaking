@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hi! 👋
 
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frankarthur3/)
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fgauss3@gmail.com)
