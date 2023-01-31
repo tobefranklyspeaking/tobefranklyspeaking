@@ -8,7 +8,7 @@
 - 📚 MBA
 - 🇺🇸 U.S. Air Force Veteran
 - 🗺️ Food and travel enthusiast
-- 📍 Currently located in Corning, New York
+- 📍 Currently located in Rochester, New York
 
 ## 🔧 Technologies & Tools:
 
